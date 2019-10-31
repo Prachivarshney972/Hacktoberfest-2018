@@ -8,7 +8,6 @@ interpreters are available, from which commands and scripts can be executed.
  charge, even for building commercial software.
 3. Multi-platform: Python is available for all major operating systems, Windows, Linux/Unix, MacOS X,
  most likely your mobile phone OS, etc.
-4.A very readable language with clear non-verbose syntax
-5.A language for which a large variety of high-quality packages are available for various applications,
+4.A language for which a large variety of high-quality packages are available for various applications,
  from web frameworks to scientific computing.
-6.A language very easy to interface with other languages, in particular C and C++.
+5.A language very easy to interface with other languages, in particular C and C++.
