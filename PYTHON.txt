@@ -12,3 +12,4 @@ interpreters are available, from which commands and scripts can be executed.
 5.A language for which a large variety of high-quality packages are available for various applications,
  from web frameworks to scientific computing.
 6.A language very easy to interface with other languages, in particular C and C++.
+7.Python van use for developing desktop GUI applications, websites and web applications
